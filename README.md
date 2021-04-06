@@ -1,4 +1,4 @@
-# Active-SisHER
+# Active HER
 
 # Project Description
 COVID-19 has impacted our day-to-day life and mental well-being. We created an app that creates an empowering and mindful space where women can create activity groups such as; rollerblading, running, biking ect. and meet up at local parks.
